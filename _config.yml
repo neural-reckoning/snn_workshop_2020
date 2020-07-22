@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Workshop on spiking neural networks as function approximators
+show_downloads: false
+github:
+  is_project_page: false
