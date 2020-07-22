@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Workshop on spiking neural networks as function approximators
-description: 
+description: The last years have seen many exciting new developments to train spiking neural networks to perform complex information processing. The workshop aims to bring together researchers in the field to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics of interest include but are not limited to, artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. To that end, we are planning on a manageable number of talks with ample time for discussions. 
 show_downloads: false
 github:
   is_project_page: false
