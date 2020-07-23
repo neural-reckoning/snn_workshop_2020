@@ -1,4 +1,6 @@
-Details to be announced soon.
+The last years have seen many exciting new developments to train spiking neural networks to perform complex information processing. This online workshop aims to bring together researchers in the field to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics of interest include but are not limited to, artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. To that end, we are planning on a manageable number of talks with ample time for discussions.
+
+The workshop is being organised by [Dan Goodman](https://neural-reckoning.org) and [Friedemann Zenke](https://fzenke.net/).
 
 ## Registration
 
