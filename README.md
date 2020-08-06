@@ -14,9 +14,16 @@ Talks will be 45m (30m + 15m questions/discussion).
 
 ### August 31st
 
+<script language="javascript">
+	function LT(t) {
+		var date = new Date('31 Aug 2020 '+t+' UTC+2');
+		document.write(date.toTimeString());
+	}
+</script>
+
 Time | Session
 -----|--------
-14:00 | Welcome by organizers 
+<script language="javascript">LT('14:00')</script> | Welcome by organizers 
 14:10 | **Sander Bohte** (CWI)
 14:55 | **Iulia M. Comsa** (Google)
 15:40 | Break (30mins)
