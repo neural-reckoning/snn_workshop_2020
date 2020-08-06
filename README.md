@@ -15,7 +15,7 @@ Talks will be 45m (30m + 15m questions/discussion).
 <script language="javascript">
 	function LT(d, t) {
 		var date = new Date(d+' 2020 '+t+' UTC+2');
-		document.write(date.toTimeString());
+		document.write(date.toString());
 	}
 </script>
 
