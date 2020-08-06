@@ -19,8 +19,8 @@ Talks will be 45m (30m + 15m questions/discussion).
 	}
 </script>
 
-Time (CET=UTC+2) | Session | Local date/time
------------------|---------|----------------
+Time (CET) | Session | Local date/time
+-----------|---------|----------------
 14:00 | Welcome by organizers | <script language="javascript">LT('31 Aug', '14:00')</script>
 14:10 | **Sander Bohte** (CWI) | <script language="javascript">LT('31 Aug', '14:10')</script>
 14:55 | **Iulia M. Comsa** (Google) | <script language="javascript">LT('31 Aug', '14:55')</script>
@@ -32,16 +32,16 @@ Time (CET=UTC+2) | Session | Local date/time
 
 ### September 1st
 
-Time | Session
------|--------
-14:00 | Welcome by organizers 
-14:10 | **Timothee Masquelier** (CNRS Toulouse)
-14:55 | **Claudia Clopath** (Imperial College)
-15:40 | Break (30mins)
-16:10 | **Richard Naud** (U Ottawa)
-16:55 | **Julian Goeltz** (Uni Bern)
-17:40 | Break (30mins)
-18:10 | *Discussion (can continue as long as needed)*
+Time (CET) | Session | Local date/time
+-----------|---------|----------------
+14:00 | Welcome by organizers | <script language="javascript">LT('1 Sep', '14:00')</script>
+14:10 | **Timothee Masquelier** (CNRS Toulouse) | <script language="javascript">LT('1 Sep', '14:10')</script>
+14:55 | **Claudia Clopath** (Imperial College) | <script language="javascript">LT('1 Sep', '14:55')</script>
+15:40 | Break (30mins) | <script language="javascript">LT('1 Sep', '15:40')</script>
+16:10 | **Richard Naud** (U Ottawa) | <script language="javascript">LT('1 Sep', '16:10')</script>
+16:55 | **Julian Goeltz** (Uni Bern) | <script language="javascript">LT('1 Sep', '16:55')</script>
+17:40 | Break (30mins) | <script language="javascript">LT('1 Sep', '17:40')</script>
+18:10 | *Discussion (can continue as long as needed)* | <script language="javascript">LT('1 Sep', '18:10')</script>
 
 ## Discussion topics
 
