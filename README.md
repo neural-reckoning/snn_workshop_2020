@@ -6,7 +6,7 @@ The workshop is being organised by [Dan Goodman](https://neural-reckoning.org) a
 
 Registration is required but free and open. [Register here](https://www.eventbrite.co.uk/e/spiking-neural-networks-as-universal-function-approximators-tickets-114419361390) and you will receive an email before the event with the Zoom URL.
 
-## Agenda (draft)
+## Agenda
 
 Talks will be 45m (30m + 15m questions/discussion).
 
