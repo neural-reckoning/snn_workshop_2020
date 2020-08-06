@@ -8,29 +8,27 @@ Registration will be required but free and open. The registration link will be p
 
 ## Agenda (draft)
 
-All times are in Central European Time (CET=UTC+2).
-
 Talks will be 45m (30m + 15m questions/discussion).
 
 ### August 31st
 
 <script language="javascript">
-	function LT(t) {
-		var date = new Date('31 Aug 2020 '+t+' UTC+2');
+	function LT(d, t) {
+		var date = new Date(d+' 2020 '+t+' UTC+2');
 		document.write(date.toTimeString());
 	}
 </script>
 
-Time | Session
------|--------
-<script language="javascript">LT('14:00')</script> | Welcome by organizers 
-14:10 | **Sander Bohte** (CWI)
-14:55 | **Iulia M. Comsa** (Google)
-15:40 | Break (30mins)
-16:10 | **Franz Scherr** (TUG)
-16:55 | **Emre Neftci** (UC Irvine)
-17:40 | Break (30mins)
-18:10 | *Discussion (can continue as long as needed)*
+Time (CET=UTC+2) | Session | Local date/time
+-----------------|---------|----------------
+14:00 | Welcome by organizers | <script language="javascript">LT('31 Aug', '14:00')</script>
+14:10 | **Sander Bohte** (CWI) | <script language="javascript">LT('31 Aug', '14:10')</script>
+14:55 | **Iulia M. Comsa** (Google) | <script language="javascript">LT('31 Aug', '14:55')</script>
+15:40 | Break (30mins) | <script language="javascript">LT('31 Aug', '15:40')</script>
+16:10 | **Franz Scherr** (TUG) | <script language="javascript">LT('31 Aug', '16:10')</script>
+16:55 | **Emre Neftci** (UC Irvine) | <script language="javascript">LT('31 Aug', '16:55')</script>
+17:40 | Break (30mins) | <script language="javascript">LT('31 Aug', '17:40')</script>
+18:10 | *Discussion (can continue as long as needed)* | <script language="javascript">LT('31 Aug', '18:10')</script>
 
 ### September 1st
 
