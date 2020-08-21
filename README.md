@@ -36,7 +36,7 @@ Time (CET) | Session | Local date/time
 -----------|---------|----------------
 14:00 | Welcome by organizers | <script language="javascript">LT('1 Sep', '14:00')</script>
 14:10 | **Timothee Masquelier** (CNRS Toulouse) | <script language="javascript">LT('1 Sep', '14:10')</script>
-14:55 | **Claudia Clopath** (Imperial College) | <script language="javascript">LT('1 Sep', '14:55')</script>
+14:55 | **Claudia Clopath** (Imperial College)<br/>*Training spiking neurons with FORCE to uncover hippocampal function* | <script language="javascript">LT('1 Sep', '14:55')</script>
 15:40 | Break (30mins) | <script language="javascript">LT('1 Sep', '15:40')</script>
 16:10 | **Richard Naud** (U Ottawa) | <script language="javascript">LT('1 Sep', '16:10')</script>
 16:55 | **Julian Goeltz** (Uni Bern) | <script language="javascript">LT('1 Sep', '16:55')</script>
