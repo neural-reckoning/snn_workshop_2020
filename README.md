@@ -45,4 +45,16 @@ Time (CET) | Session | Local date/time
 
 ## Discussion topics
 
-To be decided.
+### Monday, August 31
+
+We will discuss two topic:
+
+*Current technical constraints and bottlenecks.* How large do we need SNNs to be and how do we train them to do our research? What are the next steps the field should take to swiftly move forward?
+
+*We can train spiking neural networks. What now?*
+How do we leverage this methodological advance to gain a better understanding of how the brain processes information? What constitutes a conceptual advance? And how do we compare trained spiking neural networks to biology?
+
+### Tuesday, September 1
+
+*Why spiking?*
+Neurons communicate via precisely timed, discrete pulses rather than by analogue signals. Why? Is there a computational advantage to this mode of communication, or is just to save energy? With the recent advances in our ability to train spiking neural networks discussed in this workshop, can we throw new light on this age old discussion, and outline a programme to resolve it?
