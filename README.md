@@ -4,7 +4,7 @@ The workshop is being organised by [Dan Goodman](https://neural-reckoning.org) a
 
 ## Registration
 
-Registration is required but free and open. [Register here](https://www.eventbrite.co.uk/e/spiking-neural-networks-as-universal-function-approximators-tickets-114419361390) and you will receive an email before the event with the Crowdcast/Zoom URL.
+Registration is now closed. You can see a replay of the talks on [Crowdcast](https://www.crowdcast.io/e/snufa2020) or the talks and one of the recorded discussions on [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHFvM9DFYkM_GfnrVnIdLRhy). Note that Claudia Clopath's talk and the day 2 discussion were not recorded.
 
 ## Agenda
 
